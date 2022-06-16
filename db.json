@@ -1,0 +1,41 @@
+{
+    "developments": [
+        {
+            "id": "0",
+            "name": "Equipment Works, E17",
+            "developer": "Greystar",
+            "area": "Walthamstow, E17",
+            "location": "",
+            "url": "",
+            "amenities": [
+                "bike-parking",
+                "cinema",
+                "communal-gardens",
+                "coworking",
+                "gym",
+                "lounge",
+                "parking",
+                "pet-friendly",
+                "resident-events"
+            ]
+        },
+        {
+            "id": "1",
+            "name": "Fizzy East16",
+            "developer": "Greystar",
+            "area": "Canning Town, E16",
+            "location": "",
+            "url": "",
+            "amenities": [
+                "bike-parking",
+                "coworking",
+                "lounge",
+                "onsite-maintenance",
+                "parking",
+                "pet-friendly",
+                "resident-events",
+                "roof-terrace"
+            ]
+        }
+    ]
+}
