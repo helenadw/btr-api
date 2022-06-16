@@ -8,15 +8,18 @@
             "location": "",
             "url": "",
             "amenities": [
-                "bike-parking",
-                "cinema",
-                "communal-gardens",
-                "coworking",
-                "gym",
-                "lounge",
-                "parking",
-                "pet-friendly",
-                "resident-events"
+                "Bike Parking",
+                "Cinema",
+                "Communal Gardens",
+                "Coworking",
+                "Gym",
+                "Lounge",
+                "Parking",
+                "Pet Friendly",
+                "Resident Events"
+            ],
+            "images": [
+                
             ]
         },
         {
@@ -27,15 +30,126 @@
             "location": "",
             "url": "",
             "amenities": [
-                "bike-parking",
-                "coworking",
-                "lounge",
-                "onsite-maintenance",
-                "parking",
-                "pet-friendly",
-                "resident-events",
-                "roof-terrace"
+                "Bike Parking",
+                "Coworking",
+                "Lounge",
+                "Onsite Maintenance",
+                "Parking",
+                "Pet Friendly",
+                "Resident Events",
+                "Roof Terrace"
+            ],
+            "images": [
+                
             ]
+        },
+        {
+            "id": "2",
+            "name": "MyLo at Nine Elms, SW8",
+            "developer": "Greystar",
+            "area": "Nine Elms, SW8",
+            "location": "",
+            "url": "https://www.mylo-london.com/nine-elms/",
+            "amenities": [
+                "Cinema",
+                "Concierge",
+                "Gym",
+                "Lounge",
+                "Parking",
+                "Pet Friendly"
+            ],
+            "images": [
+                
+            ]
+        },
+        {
+            "id": "3",
+            "name": "10 George Street, E14",
+            "developer": "Vertus",
+            "area": "Canary Wharf, E14",
+            "location": "https://www.thisisvertus.com/apartments-to-rent/10-george-street/",
+            "url": "",
+            "amenities": [
+                "Bike Parking",
+                "Concierge",
+                "Gym",
+                "Lounge",
+                "Onsite Maintenance",
+                "Resident Events",
+                "WiFi Included"
+            ],
+            "images": [
+                
+            ]
+        },
+        {
+            "id": "4",
+            "name": "8 Water Street, E14",
+            "developer": "Vertus",
+            "area": "Canary Wharf, E14",
+            "location": "",
+            "url": "https://www.thisisvertus.com/apartments-to-rent/8-water-street/",
+            "amenities": [
+                "Bike Parking",
+                "Concierge",
+                "Lounge",
+                "Communal Gardens",
+                "Pet Friendly",
+                "Roof Terrace",
+                "Onsite Maintenance",
+                "Resident Events",
+                "WiFi Included"
+            ],
+            "images": [
+                
+            ] 
+        },
+        {
+            "id": "5",
+            "name": "Newfoundland, E14",
+            "developer": "Vertus",
+            "area": "Canary Wharf, E14",
+            "location": "",
+            "url": "https://www.thisisvertus.com/apartments-to-rent/newfoundland/",
+            "amenities": [
+                "Bike Parking",
+                "Coworking",
+                "Onsite Maintenance",
+                "Concierge",
+                "Gym",
+                "Lounge",
+                "Parking",
+                "Pet Friendly",
+                "Resident Events",
+                "WiFi Included"
+            ],
+            "images": [
+                
+            ] 
+        },
+        {
+            "id": "6",
+            "name": "The Collective, E14",
+            "developer": "The Collective",
+            "area": "Canary Wharf, E14",
+            "location": "",
+            "url": "https://www.thecollective.com/locations/canary-wharf",
+            "amenities": [
+                "WiFi Included",
+                "All Bills Included",
+                "Smart TV",
+                "Pool",
+                "Gym",
+                "Cinema",
+                "Library",
+                "Resident Events",
+                "Sauna",
+                "Room Cleaning",
+                "Games Room"
+            ],
+            "images": [
+                
+            ] 
         }
     ]
 }
