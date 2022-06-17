@@ -1,7 +1,7 @@
 {
     "developments": [
         {
-            "id": "0",
+            "id": 0,
             "name": "Equipment Works, E17",
             "developer": "Greystar",
             "area": "Walthamstow, E17",
@@ -23,7 +23,7 @@
             ]
         },
         {
-            "id": "1",
+            "id": 1,
             "name": "Fizzy East16",
             "developer": "Greystar",
             "area": "Canning Town, E16",
@@ -44,7 +44,7 @@
             ]
         },
         {
-            "id": "2",
+            "id": 2,
             "name": "MyLo at Nine Elms, SW8",
             "developer": "Greystar",
             "area": "Nine Elms, SW8",
@@ -63,7 +63,7 @@
             ]
         },
         {
-            "id": "3",
+            "id": 3,
             "name": "10 George Street, E14",
             "developer": "Vertus",
             "area": "Canary Wharf, E14",
@@ -83,7 +83,7 @@
             ]
         },
         {
-            "id": "4",
+            "id": 4,
             "name": "8 Water Street, E14",
             "developer": "Vertus",
             "area": "Canary Wharf, E14",
@@ -105,7 +105,7 @@
             ] 
         },
         {
-            "id": "5",
+            "id": 5,
             "name": "Newfoundland, E14",
             "developer": "Vertus",
             "area": "Canary Wharf, E14",
@@ -128,7 +128,7 @@
             ] 
         },
         {
-            "id": "6",
+            "id": 6,
             "name": "The Collective, E14",
             "developer": "The Collective",
             "area": "Canary Wharf, E14",
