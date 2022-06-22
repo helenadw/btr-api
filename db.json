@@ -214,20 +214,6 @@
         },
         {
             "id": 8,
-            "name": "Moseley Lodge, E14",
-            "developer": "L&Q",
-            "area": "Canary Wharf, E14",
-            "location": "",
-            "url": "https://properties.lqhomes.com/properties-to-rent/",
-            "slug": "moseley-lodge-e14",
-            "amenities": [
-            ],
-            "images": [
-                
-            ] 
-        },
-        {
-            "id": 9,
             "name": "Sailmakers, E14",
             "developer": "Greystar",
             "area": "Canary Wharf, E14",
@@ -240,113 +226,7 @@
             "images": [
                 "https://www.sailmakers-london.co.uk/sites/default/files/2019-02/sailmakers-apartments-02.jpg"
             ] 
-        },
-        {
-            "id": 10,
-            "name": "",
-            "developer": "",
-            "area": "",
-            "location": "",
-            "url": "",
-            "slug": "",
-            "amenities": [
-                
-            ],
-            "images": [
-                
-            ]
-        },
-        {
-            "id": 11,
-            "name": "",
-            "developer": "",
-            "area": "",
-            "location": "",
-            "url": "",
-            "slug": "",
-            "amenities": [
-                
-            ],
-            "images": [
-                
-            ] 
-        },
-        {
-            "id": 12,
-            "name": "",
-            "developer": "",
-            "area": "",
-            "location": "",
-            "url": "",
-            "slug": "",
-            "amenities": [
-                
-            ],
-            "images": [
-                
-            ] 
-        },
-        {
-            "id": 13,
-            "name": "",
-            "developer": "",
-            "area": "",
-            "location": "",
-            "url": "",
-            "slug": "",
-            "amenities": [
-                
-            ],
-            "images": [
-                
-            ] 
-        },
-        {
-            "id": 14,
-            "name": "",
-            "developer": "",
-            "area": "",
-            "location": "",
-            "url": "",
-            "slug": "",
-            "amenities": [
-                
-            ],
-            "images": [
-                
-            ] 
-        },
-        {
-            "id": 15,
-            "name": "",
-            "developer": "",
-            "area": "",
-            "location": "",
-            "url": "",
-            "slug": "",
-            "amenities": [
-                
-            ],
-            "images": [
-                
-            ] 
-        },
-        {
-            "id": 16,
-            "name": "",
-            "developer": "",
-            "area": "",
-            "location": "",
-            "url": "",
-            "slug": "",
-            "amenities": [
-                
-            ],
-            "images": [
-                
-            ] 
         }
-    
     ]
 }
 
