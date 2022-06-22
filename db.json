@@ -6,7 +6,7 @@
             "developer": "Greystar",
             "area": "Walthamstow, E17",
             "location": "",
-            "url": "",
+            "url": "https://www.equipmentworks.co.uk/",
             "slug": "equipment-works-e17",
             "amenities": [
                 "Bike Parking",
@@ -20,6 +20,10 @@
                 "Resident Events"
             ],
             "images": [
+                "https://equipmentworks.imgix.net/wp-content/uploads/2021/10/Studio-page-594x604-4.jpg?auto=format%2Cenhance%2Ccompress&w=590&h=604",
+                "https://equipmentworks.imgix.net/wp-content/uploads/2021/10/Studio-page-594x604-6.jpg?auto=format%2Cenhance%2Ccompress&w=590&h=604",
+                "https://equipmentworks.imgix.net/wp-content/uploads/2021/10/Studio-page-594x604-2.jpg?auto=format%2Cenhance%2Ccompress&w=590&h=604",
+                "https://equipmentworks.imgix.net/wp-content/uploads/2021/10/Studio-page-594x604-3.jpg?auto=format%2Cenhance%2Ccompress&w=590&h=604"
                 
             ]
         },
@@ -29,7 +33,7 @@
             "developer": "Greystar",
             "area": "Canning Town, E16",
             "location": "",
-            "url": "",
+            "url": "https://www.fizzyeast16.com",
             "slug": "fizzy-east-16",
             "amenities": [
                 "Bike Parking",
@@ -42,7 +46,11 @@
                 "Roof Terrace"
             ],
             "images": [
-                
+                "https://s3.eu-west-1.amazonaws.com/fizzyeast16-prod-assets/images/studio-flat-marketing/studio-pano.jpg",
+                "https://s3.eu-west-1.amazonaws.com/fizzyeast16-prod-assets/images/studio-flat-marketing/studio-kitchen.jpg",
+                "https://s3.eu-west-1.amazonaws.com/fizzyeast16-prod-assets/images/1-bed-marketing/1-bed-pano.jpg",
+                "https://s3.eu-west-1.amazonaws.com/fizzyeast16-prod-assets/images/bathroom-marketing/bathroom-e.jpg"
+        
             ]
         },
         {
@@ -188,6 +196,21 @@
             ],
             "images": [
                 
+            ] 
+        },
+        {
+            "id": 9,
+            "name": "Sailmakers, E14",
+            "developer": "Greystar",
+            "area": "Canary Wharf, E14",
+            "location": "",
+            "url": "https://www.sailmakers-london.co.uk/",
+            "slug": "sailmakers-e14",
+            "amenities": [
+                
+            ],
+            "images": [
+                "https://www.sailmakers-london.co.uk/sites/default/files/2019-02/sailmakers-apartments-02.jpg"
             ] 
         }
     ]
