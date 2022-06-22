@@ -7,6 +7,7 @@
             "area": "Walthamstow, E17",
             "location": "",
             "url": "",
+            "slug": "equipment-works-e17",
             "amenities": [
                 "Bike Parking",
                 "Cinema",
@@ -29,6 +30,7 @@
             "area": "Canning Town, E16",
             "location": "",
             "url": "",
+            "slug": "fizzy-east-16",
             "amenities": [
                 "Bike Parking",
                 "Coworking",
@@ -50,6 +52,7 @@
             "area": "Nine Elms, SW8",
             "location": "",
             "url": "https://www.mylo-london.com/nine-elms/",
+            "slug": "mylo-at-nine-elms-sw8",
             "amenities": [
                 "Cinema",
                 "Concierge",
@@ -69,6 +72,7 @@
             "area": "Canary Wharf, E14",
             "location": "https://www.thisisvertus.com/apartments-to-rent/10-george-street/",
             "url": "",
+            "slug": "10-george-street-e14",
             "amenities": [
                 "Bike Parking",
                 "Concierge",
@@ -89,6 +93,7 @@
             "area": "Canary Wharf, E14",
             "location": "",
             "url": "https://www.thisisvertus.com/apartments-to-rent/8-water-street/",
+            "slug": "8-water-street-e14",
             "amenities": [
                 "Bike Parking",
                 "Concierge",
@@ -111,6 +116,7 @@
             "area": "Canary Wharf, E14",
             "location": "",
             "url": "https://www.thisisvertus.com/apartments-to-rent/newfoundland/",
+            "slug": "newfoundland-e14",
             "amenities": [
                 "Bike Parking",
                 "Coworking",
@@ -134,6 +140,7 @@
             "area": "Canary Wharf, E14",
             "location": "",
             "url": "https://www.thecollective.com/locations/canary-wharf",
+            "slug": "the-collective-e14",
             "amenities": [
                 "WiFi Included",
                 "All Bills Included",
@@ -150,6 +157,39 @@
             "images": [
                 
             ] 
+        },
+        {
+            "id": 7,
+            "name": "The High Line, E14",
+            "developer": "Savills",
+            "area": "Canary Wharf, E14",
+            "location": "",
+            "url": "https://www.thehigh-line.co.uk/",
+            "slug": "the-high-line-e14",
+            "amenities": [
+                "Gym",
+                "Coworking",
+                "Communal Gardens",
+                "Concierge"
+            ],
+            "images": [
+                
+            ] 
+        },
+        {
+            "id": 7,
+            "name": "Moseley Lodge, E14",
+            "developer": "L&Q",
+            "area": "Canary Wharf, E14",
+            "location": "",
+            "url": "https://properties.lqhomes.com/properties-to-rent/",
+            "slug": "moseley-lodge-e14",
+            "amenities": [
+            ],
+            "images": [
+                
+            ] 
         }
     ]
 }
+
